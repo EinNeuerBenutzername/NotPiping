@@ -14,5 +14,3 @@ The only standard libraries used are `<stdio.h>`, `<wchar.h>` and `<stdlib.h>`.
 Not exactly stable. Requires more testing on non-Windows platforms.
 
 I have tested it on multiple Windows machines and it behaved surprisingly well.
-
-If it turns out to be stable, I might use it in Corburt to make real-time battles.
